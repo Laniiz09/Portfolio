@@ -1,27 +1,34 @@
-# 🏦 Bank Customer Churn Analysis & Retention Strategy
+# 📊 Data Analysis Portfolio
 
-## 📌 Executive Summary
-This project analyzes a dataset of **10,000 bank customers** to identify the key drivers of customer churn and formulate data-driven retention strategies, particularly targeting high-net-worth accounts. 
-
-By conducting **Customer Segmentation and Exploratory Data Analysis (EDA)**, the study uncovers critical behavioral insights—such as severe churn among multi-product holders and high-balance middle-aged clients—and provides actionable marketing recommendations.
+Hi! I'm a Business Analyst focused on converting complex business data into actionable strategic insights. Welcome to my project portfolio!
 
 ---
 
-## 🛠️ Tech Stack & Tools
-* **Data Processing & Querying**: `BigQuery` / `SQL` 
-* **Data Analysis & Visualization**: `Excel`, `Power BI` 
-* **Presentation & Reporting**: `PowerPoint` 
+## 📂 Projects Directory 
+
+> 💡 *Click on the **Project Title** or **Report Link** to explore the detailed analysis.*
+
+| Project | Domain / Scenario | Core Tools | Deliverables |
+| :--- | :--- | :--- | :--- |
+| 🏦 **[Bank Customer Churn Analysis](#-1-bank-customer-churn-analysis)** | Financial Churn & High-Net-Worth Retention | `SQL` `Power BI` `Excel` | [📄 PDF Report](./Portfolio_BankCustomerChurn.pdf) |
+| 🛒 **E-Commerce Conversion Analysis** | Funnel Optimization & User Segmentation | `Python` `SQL` `Tableau` | [📄 PDF Report](./Project2_Path/Report.pdf) |
+| 📦 **Supply Chain Inventory Forecast** | Inventory Turnover & Demand Forecasting | `Power BI` `Excel` | [📄 PDF Report](./Project3_Path/Report.pdf) |
 
 ---
 
-## 🔑 Key Business Insights & Actionable Strategies
-1. **The Product-Churn Anomaly**: Churn spikes dramatically from 7.6% (holding 2 products) up to 100% (holding 4 products). 
-   * *Strategy*: Halt aggressive cross-selling; implement a strict marketing cap (Max 2 products) and optimize bundling strategies.
-2. **High-Net-Worth Demographics Crisis**: Customers aged 46–60 hold the highest average balance ($81.5K) but experience a severe 51.1% churn rate.
-   * *Strategy*: Shift focus to active membership engagement by assigning dedicated Relationship Managers and hosting tailored VIP loyalty programs.
+## 🌟 Featured Project Showcase 
+
+### 🏦 1. Bank Customer Churn Analysis & Retention Strategy
+
+#### 📌 Executive Summary
+Analyzed a dataset of **10,000 bank customers** to identify churn drivers and formulate data-driven retention strategies for high-net-worth accounts using **Customer Segmentation & EDA**.
+
+#### 🛠️ Tech Stack & Tools
+* **Data Querying & Logic**: `BigQuery` / `SQL`
+* **Analysis & Visualization**: `Excel`, `Power BI`
+* **Deliverable**: `PowerPoint` / `PDF`
+
+#### 📄 Quick Links
+* 📄 **[Click here to open Full PDF Report](./Portfolio_BankCustomerChurn.pdf)**
 
 ---
-
-## 📄 Deliverables & Links
-* 📊 **Interactive Dashboard**: Power BI visualization quantifying potential financial risk ($5.62M loss from 4-product churn).
-* 📄 **Full Analysis Report (PDF)**: [👉 Click here to view the full PDF report](./Portfolio_BankCustomerChurn.pdf)
