@@ -10,7 +10,7 @@ Hi! I'm a Business Analyst focused on converting complex business data into acti
 
 | Project | Domain / Scenario | Core Tools | Deliverables |
 | :--- | :--- | :--- | :--- |
-| 🏦 **[Bank Customer Churn Analysis](#-1-bank-customer-churn-analysis)** | Financial Churn & High-Net-Worth Retention | `SQL` `Power BI` `Excel` | [📄 PDF Report](./Portfolio_BankCustomerChurn.pdf) |
+| 🏦 **Bank Customer Churn Analysis** | Financial Churn & High-Net-Worth Retention | `SQL` `Power BI` `Excel` | [📄 PDF Report](./Portfolio_BankCustomerChurn.pdf) |
 | 🛒 **E-Commerce Conversion Analysis** | Funnel Optimization & User Segmentation | `Python` `SQL` `Tableau` | [📄 PDF Report](./Project2_Path/Report.pdf) |
 | 📦 **Supply Chain Inventory Forecast** | Inventory Turnover & Demand Forecasting | `Power BI` `Excel` | [📄 PDF Report](./Project3_Path/Report.pdf) |
 
