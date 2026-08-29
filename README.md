@@ -11,7 +11,7 @@ Hi! I'm a Business Analyst focused on converting complex business data into acti
 | Project | Domain / Scenario | Core Tools | Deliverables |
 | :--- | :--- | :--- | :--- |
 | 🏦 **Bank Customer Churn Analysis** | Financial Churn & High-Net-Worth Retention | `SQL` `Power BI` `Excel` | [📄 PDF Report](./Portfolio_BankCustomerChurn.pdf) |
-| 🛒 **E-Commerce Conversion Analysis** | Funnel Optimization & User Segmentation | `Python` `SQL` `Tableau` | [📄 PDF Report](./Project2_Path/Report.pdf) |
+| 🛒 **E-Commerce Conversion Analysis** | Funnel Optimization & User Segmentation | `HiveSQL` `Power BI` | [📄 PDF Report](./Portfolio_E-CommerceConversion.pdf) |
 | 📦 **Supply Chain Inventory Forecast** | Inventory Turnover & Demand Forecasting | `Power BI` `Excel` | [📄 PDF Report](./Project3_Path/Report.pdf) |
 
 ---
@@ -32,3 +32,16 @@ Analyzed a dataset of **10,000 bank customers** to identify churn drivers and fo
 * 📄 **[Click here to open Full PDF Report](./Portfolio_BankCustomerChurn.pdf)**
 
 ---
+
+### 🛒 2. E-Commerce Funnel Optimization & A/B Testing Framework
+
+#### 📌 Executive Summary 
+Analyzed **6.7M+ e-commerce event logs** (Oct–Nov) to identify core funnel drop-offs. Designed an end-to-end **A/B testing framework** aimed at boosting the View-to-Cart conversion rate.
+
+#### 🛠️ Tech Stack & Tools 
+* **Data Querying & Logic:** `HiveSQL` / `Power BI`   
+* **Experimental Design & Viz:** A/B Test Metric Framework, Funnel Charts
+* **Deliverable:** `PDF Report`  
+
+#### 📄 Quick Links  
+* 📄 **[Click here to open Full PDF Report](./Portfolio_E-CommerceConversion.pdf)**
