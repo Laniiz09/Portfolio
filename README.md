@@ -1,4 +1,4 @@
-# 📊 Data Analysis Portfolio
+# 📊 Business Analysis Portfolio
 
 Hi! I'm a Business Analyst focused on converting complex business data into actionable strategic insights. Welcome to my project portfolio!
 
